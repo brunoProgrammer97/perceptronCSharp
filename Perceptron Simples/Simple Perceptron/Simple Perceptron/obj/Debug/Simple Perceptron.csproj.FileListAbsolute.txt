@@ -1,0 +1,7 @@
+C:\Users\Bruno Rocha\Desktop\Perceptron Simples\Simple Perceptron\Simple Perceptron\bin\Debug\Simple Perceptron.exe.config
+C:\Users\Bruno Rocha\Desktop\Perceptron Simples\Simple Perceptron\Simple Perceptron\bin\Debug\Simple Perceptron.exe
+C:\Users\Bruno Rocha\Desktop\Perceptron Simples\Simple Perceptron\Simple Perceptron\bin\Debug\Simple Perceptron.pdb
+C:\Users\Bruno Rocha\Desktop\Perceptron Simples\Simple Perceptron\Simple Perceptron\obj\Debug\Simple Perceptron.csprojResolveAssemblyReference.cache
+C:\Users\Bruno Rocha\Desktop\Perceptron Simples\Simple Perceptron\Simple Perceptron\obj\Debug\Simple Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Rocha\Desktop\Perceptron Simples\Simple Perceptron\Simple Perceptron\obj\Debug\Simple Perceptron.exe
+C:\Users\Bruno Rocha\Desktop\Perceptron Simples\Simple Perceptron\Simple Perceptron\obj\Debug\Simple Perceptron.pdb
